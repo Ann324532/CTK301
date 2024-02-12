@@ -1,0 +1,40 @@
+h1{
+color:aquamarine;
+
+}
+
+.red{background-color: black;
+color: red;
+}
+
+.blue{background-color: pink;
+color: blue;
+}
+
+h2{background-color: brown;
+    color:azure
+}
+
+    .oragne{background-color: black;
+    color:orange
+}
+
+    .purple{background-color: bisque;
+    color: blueviolet;
+}
+
+    .teel{color:teal;
+    background-color: aqua;
+}
+
+a{color:red
+}
+
+a:hover{color:yellow
+}
+
+a:visited{color:green
+}
+
+#pla{color:yellow
+}
