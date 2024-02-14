@@ -1,0 +1,37 @@
+a{color:green;
+}
+
+a:hover{color:red;
+}
+
+
+h1{color: white;
+}
+
+h2{color: blue;
+}
+
+#pla{color:orange ;
+}
+
+h3{background-color: yellow;
+}
+
+.red{color:red;
+}
+
+h4{background-color: green;
+color:yellow;
+}
+
+.green{background-color: greenyellow;
+}
+
+h5{color: red;
+}
+
+a{text-decoration: none;
+}
+
+a:hover{text-decoration: underline;
+}
