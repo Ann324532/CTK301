@@ -1,0 +1,73 @@
+h1{
+color:orange;
+font-style: italic;
+
+}
+
+.red{background-color: black;
+color: red;
+}
+
+.blue{background-color: pink;
+color: blue;
+}
+
+.blue{
+    text-align: justify;
+}
+
+h2{background-color: blue;
+    color:orange;
+    font-style: italic;
+}
+
+h3{color:orange;
+font-style: italic;
+}
+
+h4{color: orange;
+font-style: italic;
+}
+
+    .oragne{background-color: black;
+    color:orange
+}
+
+    .purple{background-color: bisque;
+    color: blueviolet;
+}
+
+    .teel{color:teal;
+    background-color: aqua;
+}
+
+a{color:red
+}
+
+a:hover{color:yellow
+}
+
+a:visited{color:green
+}
+
+#pla{color:yellow
+}
+
+.yellow{color:blue;
+}
+
+.yellow{
+    text-align: center;
+}
+
+.just{text-align: justify;
+}
+
+
+.hell{font-family:Helvetica;
+}
+
+img{border: 5px solid black;
+}
+
+body{ background-image: url(tree.jpg);}
