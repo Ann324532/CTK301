@@ -1,0 +1,86 @@
+h1{font-family: Helvetica;
+    display: inline-block;
+    border: 1px solid white;
+    width: 1500px;
+    background-color: white;
+    padding: 40px;
+    height: 40px;
+    vertical-align: middle;
+
+}
+
+h2{font-family: Helvetica;
+font-weight: bold;
+display: inline-block;
+border: 5px solid white;
+width: 1500px;
+height: 10px;
+background-color: white;
+padding: 50px;
+border-bottom: solid 7px black;
+vertical-align: bottom;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color:red;
+text-decoration: underline;
+}
+
+nav li a{color:aliceblue;
+}
+
+nav li{
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    background-color: darkblue;
+    padding: 0px;
+    margin-bottom: 24px;
+} 
+
+nav li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 24px;
+
+}
+
+nav li a:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+
+footer{
+    color:white;
+    border: 5px solid white;
+    width: 1500px;
+    background-color: darkblue;
+    padding: 20px;
+    margin-bottom: 24px;
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+    font-family: Verdana;
+    text-align: center;
+}
+
+body p{
+    text-align: justify;
+    display: inline;
+    border: 1px solid white;
+    width: 800px;
+    background-color: white;
+}
+
+body{ 
+    background-image:url("a5bg.png") 
+    
+}
